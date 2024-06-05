@@ -1,0 +1,42 @@
+.new-div {
+    background-color: rgb(33, 159, 148);
+    border-radius: 2rem;
+    padding: 1.5rem 2.5rem;
+    width: 18rem;
+    color: white;
+    text-align: center;
+  }
+  .hello-container {
+    margin: 2rem 5rem;
+    border-color: rgb(33, 159, 148);
+    border-radius: 1rem;
+    border-style: solid;
+  }
+  .row-type-card {
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 4rem;
+  }
+  i{
+    margin-bottom: 1.3rem;
+  }
+  h5 {
+    font-size: 1.5rem;
+    font-family: "Open Sans", sans-serif;
+  }
+  h4 {
+    margin-bottom: 0;
+  }
+  h6 {
+    margin-bottom: 0;
+  }
+  .fa-trash-can, .fa-file-arrow-down {
+    font-size: 1.5rem;
+  }
+  .fa-trash-can {
+    color: #DA1212;
+    margin-right: 2rem;
+  }
+  .fa-file-arrow-down {
+    color: #9AE66E;
+  }

@@ -1,0 +1,47 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+	background: #eee;
+}
+
+.modal-body {
+	padding: 1rem !important;
+}
+
+.modal-title {
+	color: #fff;
+}
+
+.modal-header {
+	background: #219f94;
+	color: #fff !important;
+}
+
+.fa-close {
+	color: #fff;
+}
+
+.heading {
+	font-weight: 500 !important;
+}
+
+.subheadings {
+	font-size: 12px;
+	color: #219f94;
+}
+
+.dots {
+	height: 10px;
+	width: 10px;
+	background-color: green;
+	border-radius: 50%;
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.gallery img {
+	margin-right: 10px;
+}
+
+.fs-9 {
+	font-size: 9px;
+}
